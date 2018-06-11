@@ -1,0 +1,24 @@
+
+body {background-image: url(photo2.jpg);
+background-size: cover; 
+background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+background-color:white; }
+h1{text-align: left;
+font-family: 'Montserrat', sans-serif;
+color:#842E00;}
+li, a, p, form {color:#842E00;}
+
+p, ul {
+	line-height: 35px;
+font-family: 'Montserrat', sans-serif;}
+
+title 
+{font-family: 'Montserrat', sans-serif;
+}
+
+form {
+	line-height: 35px;
+font-family: 'Montserrat', sans-serif;
+}
